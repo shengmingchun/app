@@ -1,0 +1,25 @@
+*{
+	padding: 0px ;
+	margin: 0px;
+}
+.list{
+	height: 50px;
+	width: 100%;
+}
+.list1{
+	float: left;
+	height: 20px;
+	width: 48%;
+	background: #3CC51F;
+	border-radius: 15px;
+	line-height: 20px;
+	margin-top: 5px;
+	text-align: center;
+}
+.ct{
+	margin: 5px auto;
+	height: 30px;
+	width: 48%;
+	line-height: 30px;
+	text-align: center;
+}
